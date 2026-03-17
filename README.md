@@ -442,7 +442,7 @@ We welcome adapters, bug fixes, and new use cases. See [src/gepa/adapters/](src/
       url={https://arxiv.org/abs/2507.19457},
 }
 ```
-
+.
 <p align="center">
   <a href="https://www.star-history.com/#gepa-ai/gepa&Date">
     <img src="https://api.star-history.com/svg?repos=gepa-ai/gepa&type=Date" alt="Star History Chart" width="600">
